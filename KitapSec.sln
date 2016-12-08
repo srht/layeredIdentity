@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitapsec.Core", "KitapSec.Core\Kitapsec.Core.csproj", "{9D88C736-2B23-4872-B28B-3B829C3B72A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitapsec.Data", "Kitapsec.Data\Kitapsec.Data.csproj", "{CA91ACCA-F7FF-438A-8A8C-2D46EF65D2B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitapsec.Service", "Kitapsec.Service\Kitapsec.Service.csproj", "{F01B99C2-718D-4A31-88DE-A5E0D863FCAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitapsec.Web", "Kitapsec.Web\Kitapsec.Web.csproj", "{1CED9988-1522-4A89-87D6-164FA227DF16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D88C736-2B23-4872-B28B-3B829C3B72A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D88C736-2B23-4872-B28B-3B829C3B72A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D88C736-2B23-4872-B28B-3B829C3B72A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D88C736-2B23-4872-B28B-3B829C3B72A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA91ACCA-F7FF-438A-8A8C-2D46EF65D2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA91ACCA-F7FF-438A-8A8C-2D46EF65D2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA91ACCA-F7FF-438A-8A8C-2D46EF65D2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA91ACCA-F7FF-438A-8A8C-2D46EF65D2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01B99C2-718D-4A31-88DE-A5E0D863FCAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01B99C2-718D-4A31-88DE-A5E0D863FCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01B99C2-718D-4A31-88DE-A5E0D863FCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01B99C2-718D-4A31-88DE-A5E0D863FCAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CED9988-1522-4A89-87D6-164FA227DF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CED9988-1522-4A89-87D6-164FA227DF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CED9988-1522-4A89-87D6-164FA227DF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CED9988-1522-4A89-87D6-164FA227DF16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
