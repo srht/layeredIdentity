@@ -1,0 +1,14 @@
+C:\Users\Admin\Google Drive\Kutuphane\Projects\KitapSec\KitapSec.Core\bin\Debug\Kitapsec.Core.dll.config
+C:\Users\Admin\Google Drive\Kutuphane\Projects\KitapSec\KitapSec.Core\bin\Debug\Kitapsec.Core.dll
+C:\Users\Admin\Google Drive\Kutuphane\Projects\KitapSec\KitapSec.Core\bin\Debug\Kitapsec.Core.pdb
+C:\Users\Admin\Google Drive\Kutuphane\Projects\KitapSec\KitapSec.Core\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Google Drive\Kutuphane\Projects\KitapSec\KitapSec.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Google Drive\Kutuphane\Projects\KitapSec\KitapSec.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Google Drive\Kutuphane\Projects\KitapSec\KitapSec.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Google Drive\Kutuphane\Projects\KitapSec\KitapSec.Core\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Google Drive\Kutuphane\Projects\KitapSec\KitapSec.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Google Drive\Kutuphane\Projects\KitapSec\KitapSec.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Google Drive\Kutuphane\Projects\KitapSec\KitapSec.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Google Drive\Kutuphane\Projects\KitapSec\KitapSec.Core\obj\Debug\KitapSec.Core.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Google Drive\Kutuphane\Projects\KitapSec\KitapSec.Core\obj\Debug\Kitapsec.Core.dll
+C:\Users\Admin\Google Drive\Kutuphane\Projects\KitapSec\KitapSec.Core\obj\Debug\Kitapsec.Core.pdb
